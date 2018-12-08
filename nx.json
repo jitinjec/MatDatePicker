@@ -1,0 +1,24 @@
+{
+  "npmScope": "bui",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "bui": {
+      "tags": []
+    },
+    "bui-e2e": {
+      "tags": []
+    },
+    "website": {
+      "tags": []
+    },
+    "website-e2e": {
+      "tags": []
+    }
+  }
+}
